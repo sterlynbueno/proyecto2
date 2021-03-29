@@ -8,8 +8,8 @@ interface FormData{
 
 export const Formulario = ()=>{
     const [formulario, setformulario]= useState({
-        email:"samuel@gmail.com",
-        nombre:"Samuel Ángeles",
+        email:"sterlinbuenosanchez26.com",
+        nombre:"Sterlyn Bueno",
         edad:17
     })
 
